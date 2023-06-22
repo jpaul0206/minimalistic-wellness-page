@@ -1,0 +1,1 @@
+# minimalistic-wellness-page
